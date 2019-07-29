@@ -12,4 +12,4 @@
 [演示链接]https://github.com/XinJame/-xj/tree/master/images
 
 ## 响应式网页布局
-[演示链接](https://xinjame.github.io/-xj/响应式布局网页)
+[演示链接](https://xinjame.github.io/-xj/responsiveLayout)
