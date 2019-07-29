@@ -9,4 +9,4 @@
 [演示链接](https://xinjame.github.io/-xj/移动web京东项目)
 
 ## 综合资讯小程序
-[演示链接]https://xinjame.github.io/-xj/images/
+[演示链接]https://github.com/XinJame/-xj/tree/master/images
